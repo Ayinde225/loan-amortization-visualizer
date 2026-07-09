@@ -1,5 +1,9 @@
 # 💰 Loan Amortization & Mortgage Visualizer
 
+🔗 **Live demo:** [https://ayinde225.github.io/loan-amortization-visualizer/](https://ayinde225.github.io/loan-amortization-visualizer/)
+
+[![Deploy to GitHub Pages](https://github.com/Ayinde225/loan-amortization-visualizer/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ayinde225/loan-amortization-visualizer/actions/workflows/deploy.yml)
+
 An interactive tool for understanding the **true cost of borrowing**. Enter a loan
 amount, interest rate, and term, and instantly see your monthly payment, total
 interest, payoff date, a balance-over-time chart, and a full period-by-period
